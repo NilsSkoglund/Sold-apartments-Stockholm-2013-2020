@@ -2,12 +2,10 @@
 Scraping information from Hemnet about 50k+ sold apartments in Stockholm sold between 2013-2020
 
 # DIY
-1) Run code in sthlm/"1. Sthlm - Get id_sold_sthlm.ipynb" 
-2) Run code in sthlm/"2. Sthlm - Get sthlm_raw.ipynb"
+1) Run code in sthlm/"1. Sthlm - Get id_sold_sthlm.ipynb" (runtime ~10 minutes)
+2) Run code in sthlm/"2. Sthlm - Get sthlm_raw.ipynb" (runtime ~ 30-60 minutes)
 
 You should now have raw data from 50k+ apartments sold in Stockholm. 
-
-Code in the other files are mainly a one off for this project
 
 # Summary
 In this project I'm scraping information about 58k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun.
