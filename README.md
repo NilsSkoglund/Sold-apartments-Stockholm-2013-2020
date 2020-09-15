@@ -1,5 +1,5 @@
 # Sold-apartments-Stockholm-2013-2020
-Scraping information from Hemnet about 50k+ sold apartments in Stockholm sold between 2013-2020
+Scraping information from Hemnet from 50k+ sold apartments in Stockholm sold between 2013-2020
 
 # DIY
 1) Run code in sthlm/"1. Sthlm - Get id_sold_sthlm.ipynb" (runtime ~10 minutes)
