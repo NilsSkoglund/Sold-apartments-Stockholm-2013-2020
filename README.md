@@ -5,7 +5,7 @@ Scraping information from Hemnet from 50k+ sold apartments in Stockholm sold bet
 1) Run code in sthlm/"1. Sthlm - Get id_sold_sthlm.ipynb" (runtime ~10 minutes)
 2) Run code in sthlm/"2. Sthlm - Get sthlm_raw.ipynb" (runtime ~ 30-60 minutes)
 
-You should now have raw data from 50k+ apartments sold in Stockholm. 
+You should now have raw data from 50k+ apartments sold in Stockholm with less than 1% NaN-values. 
 
 # Summary
 In this project I'm scraping information about 58k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun.
@@ -37,6 +37,10 @@ The values from each sold apartment I was mainly interested in was the  "sqm", "
 
 In addition to the three above mentioned values I was also extra interested in the values "no. of rooms", "street name" and "area name". This information in conjunction with "sqm", "final price" and "date sold" allows for an analysis of the average price development in Stockholm for different groups. 
 
+## Omx30 
+
+I´m comparing the price development of apartments in Stockholm with the price development of omx30 for the year 2013-2020. 
+
 # Project status
 Closed to finished project. Need to tidy up code and add comments in a few places. 
 
@@ -47,6 +51,15 @@ Possible to ongoingly extract information and create your own data-base of sold 
 - Find a good method to automate analysis of average price changes in different areas
 - Find a good method to automate analysis of average price changes on different streets
 - Explore the possibility of creating a more efficient index for average price change for apartments in Stockholm. I.e. a basket of streets with high turnover. 
+
+# Map & file structure
+Maps
+graphs: Visualizations & analysis 
+omx30: Creating usable csv from data exported from Nasdaq
+sthlm: (THIS MAP CONTAINS THE MAJORITY OF THE PROJECT) Scraping information from Hemnet, data-cleaning and adding columns. Finished product is a clean csv with information about 50k+ apartments sold in Stockholm between 2013-2020. 
+
+Files
+"Testing environment for scraping Hemnet": For efficient testing of diffrent ways of scraping the desired information from Hemnet. 
 
 # Contributors
 Nils Skoglund
