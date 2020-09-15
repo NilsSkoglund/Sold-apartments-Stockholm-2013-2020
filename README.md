@@ -53,13 +53,13 @@ Possible to ongoingly extract information and create your own data-base of sold 
 - Explore the possibility of creating a more efficient index for average price change for apartments in Stockholm. I.e. a basket of streets with high turnover. 
 
 # Map & file structure
-Maps
-graphs: Visualizations & analysis 
-omx30: Creating usable csv from data exported from Nasdaq
-sthlm: (THIS MAP CONTAINS THE MAJORITY OF THE PROJECT) Scraping information from Hemnet, data-cleaning and adding columns. Finished product is a clean csv with information about 50k+ apartments sold in Stockholm between 2013-2020. 
+`Maps`
+- graphs: Visualizations & analysis 
+- omx30: Creating usable csv from data exported from Nasdaq
+- sthlm: (THIS MAP CONTAINS THE MAJORITY OF THE PROJECT) Scraping information from Hemnet, data-cleaning and adding columns. Finished product is a clean csv with information - about 50k+ apartments sold in Stockholm between 2013-2020. 
 
 Files
-"Testing environment for scraping Hemnet": For efficient testing of diffrent ways of scraping the desired information from Hemnet. 
+- "Testing environment for scraping Hemnet": For efficient testing of diffrent ways of scraping the desired information from Hemnet. 
 
 # Contributors
 Nils Skoglund
