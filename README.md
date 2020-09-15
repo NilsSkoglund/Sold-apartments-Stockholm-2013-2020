@@ -7,7 +7,7 @@
 You should now have raw data from 50k+ apartments sold in Stockholm with less than 1% NaN-values. 
 
 # Summary
-In this project I'm scraping information from 50k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun. The year over year return was ~4.5% and the annualized standard deviation was ~2% for aparments sold in Stockholm bewteen jan-2013 and sep-2020.
+In this project I'm scraping information from 50k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun. The year over year return was ~4.5% and the annualized standard deviation was ~2% for aparments sold in Stockholm between jan-2013 and sep-2020.
 
 # Description
 ## Scraping
