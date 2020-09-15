@@ -8,7 +8,7 @@ Scraping information from Hemnet from 50k+ sold apartments in Stockholm sold bet
 You should now have raw data from 50k+ apartments sold in Stockholm with less than 1% NaN-values. 
 
 # Summary
-In this project I'm scraping information about 58k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun.
+In this project I'm scraping information from 50k+ sold apartments in Stockholm from jan-2013 to sep-2020. After scraping I´ve performed a decent amount of data cleaning before the data-set was ready for analysis. My analysis was exploratory and I was mainly focused on looking at the price development for apartments in Stockholm kommun.
 
 # Description
 ## Scraping
