@@ -44,7 +44,7 @@ Closed to finished project. Need to tidy up code and add comments in a few place
 Possible to ongoingly extract information and create your own data-base of sold objects in Stockholm (or other areas of interest with minor adjustments to the code) 
 
 # Possible future updates
-- Automate the data-cleaning were possible. I.e. a method such as removing absolute Z-values > 3 would allow for a automated data-cleaning. 
+- Automate the data-cleaning were possible. I.e. a method such as removing absolute Z-values > 3 
 - Find a good method to automate analysis of average price changes in different areas
 - Find a good method to automate analysis of average price changes on different streets
 - Explore the possibility of creating a more efficient index for average price change for apartments in Stockholm. I.e. a basket of streets with high turnover. 
